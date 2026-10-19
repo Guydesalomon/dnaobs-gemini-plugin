@@ -1,0 +1,12 @@
+{
+  "name": "dnaobs",
+  "displayName": "DNAObs Genome Observatory",
+  "description": "DNAObs genomics assistant: explore supported raw DNA upload formats (23andMe, AncestryDNA, VCF), check real-time analysis pipeline availability, navigate ancestry and trait reports, and review privacy guardrails.",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "What raw DNA file formats does DNAObs support?",
+    "Check DNAObs live analysis service availability and timing",
+    "How do I prepare my 23andMe or AncestryDNA export?"
+  ]
+}

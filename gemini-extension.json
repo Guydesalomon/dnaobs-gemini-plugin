@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/google-gemini/gemini-cli/main/schemas/extension.json",
+  "name": "dnaobs",
+  "version": "1.0.0",
+  "description": "DNAObs genomics assistant: explore supported raw DNA upload formats (23andMe, AncestryDNA, VCF), check real-time analysis pipeline availability, navigate ancestry and trait reports, and review privacy guardrails.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "dnaobs": {
+      "url": "https://dnaobs.com/mcp"
+    }
+  }
+}
